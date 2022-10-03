@@ -1,0 +1,2 @@
+# Introduction
+**StaticPedia** is a Static Site Generator (SSG) designed to make Wikis suitable for static hosting. Traditionally, Wikis are dynamically served and have a database backend. However, in a development climate where serverless static content is prevailing, we think this could be a needed update to an outdated system.
